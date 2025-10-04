@@ -26,13 +26,13 @@ It focuses on **Customer Churn Prediction** and **Sales Forecasting**, using **M
 ## 🖼️ Screenshots
 
 ### 🔐 Login & Register  
-![Login Page](./screenshots/login.png)
+![Login Page](screenshots/login.png)
 
 ### 📊 Churn Prediction Dashboard  
-![Churn Dashboard](./screenshots/churn_dashboard.png)
+![Churn Dashboard](screenshots/churn_dashboard.png)
 
 ### 📈 Sales Forecasting Dashboard  
-![Forecast Dashboard](./screenshots/forecast_dashboard.png)
+![Forecast Dashboard](screenshots/forecast_dashboard.png)
 
 *(Place your screenshots inside a folder named `screenshots` in your project root and rename accordingly.)*  
 
