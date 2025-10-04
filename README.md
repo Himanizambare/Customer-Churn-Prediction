@@ -1,7 +1,6 @@
 # Custmer Churn Prediction
 
-This is a **Full-Stack Web Application** built for the **BNP Paribas Hackathon** by Team20.  
-It focuses on **Customer Churn Prediction** and **Sales Forecasting**, using **Machine Learning models** integrated with a modern frontend and backend architecture.
+This is a **Full-Stack Web Application**  It focuses on **Customer Churn Prediction** and **Sales Forecasting**, using **Machine Learning models** integrated with a modern frontend and backend architecture.
 
 ---
 
