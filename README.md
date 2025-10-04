@@ -103,17 +103,3 @@ Frontend will start on: http://localhost:3000/
  -  Sales Forecast Section → Shows top 10 products with forecasted sales
 
  -  Visualization & Insights shown via charts
-
-## 📜 License
-This project is licensed under the MIT License.
-
-```
-
----
-
-✨ If you give me a couple of your **real screenshots** (like your login page, churn pie chart, forecast graph), I can insert them in the right format so you just need to push the README to GitHub.  
-
-👉 Do you want me to also make a **nice banner/cover image** for the top of your README (like a hackathon-style project showcase)?
-
-```
-
