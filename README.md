@@ -30,7 +30,7 @@ It focuses on **Customer Churn Prediction** and **Sales Forecasting**, using **M
 /Screenshot 2025-10-05 003205.png)
 
 ### 📊 Churn Prediction Dashboard  
-![Churn Dashboard](/screenshots/churn_dashboard.png)
+![Churn Dashboard](/Screenshot 2025-10-05 003205.png)
 
 ### 📈 Sales Forecasting Dashboard  
 ![Forecast Dashboard](/screenshots/forecast_dashboard.png)
